@@ -5,6 +5,6 @@ Diseñado desde cero tanto personajes como escenarios y objetos. Cuenta con vari
 
 
 
-## Autores:
+## Autores
 Mario Arroyo Tena (programación y diseño de niveles)
 Alicia Zamora Segarra (diseñadora gráfica)
