@@ -4,7 +4,6 @@ Juego de estilo metroidvania desarrollado entre 2019 y 2020, fuertemente inspira
 Diseñado desde cero tanto personajes como escenarios y objetos. Cuenta con varias mécanicas de inicio como saltar, atacar y correr.
 
 
-
 ## Autores
-Mario Arroyo Tena (programación y diseño de niveles)
-Alicia Zamora Segarra (diseñadora gráfica)
+- Mario Arroyo Tena (programación y diseño de niveles)
+- Alicia Zamora Segarra (diseñadora gráfica)
